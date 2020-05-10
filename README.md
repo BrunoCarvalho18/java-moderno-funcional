@@ -11,3 +11,8 @@
 - --> Consumer --> é uma interface funcional que recebe um parâmetro de entrada, e não retorna nenhum valor
 - --> BinaryOperator --> é uma interface funcional que recebe dois parâmetros de entrada do mesmo tipo, e retorna um valor do mesmo tipo das entradas.
 
+## Expressões Lambdas
+
+- -->Expressões Lambda são parecidas com classes anônimas, porém só possuem a implementação dos
+métodos. Por isso, são como "métodos anônimos", que podem ser passados via variáveis.
+
