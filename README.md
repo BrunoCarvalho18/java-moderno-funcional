@@ -3,4 +3,11 @@
 ## Interfaces Funcionais
 
 - --> Predicate --> é uma interface funcional que recebe um parâmetro de entrada e retorna um valor booleano.
+- --> BiConsumer --> é uma interface funcional que recebe dois parâmetros de entrada, e não retorna nenhum valor.
+- --> BiFunction --> é uma interface funcional que recebe dois parâmetros de entrada e retorna um valor.
+- --> BiPredicate --> é uma interface funcional que recebe dois parâmetros de entrada e retorna um valor booleano.
+- --> UnaryOperator --> é uma interface funcional que recebe um parâmetro de entrada e retorna um valor do mesmo tipo da entrada.
+- --> Supplier --> é uma interface funcional que não recebe nenhum parâmetro de entrada, mas retorna um valor
+- --> Consumer --> é uma interface funcional que recebe um parâmetro de entrada, e não retorna nenhum valor
+- --> BinaryOperator --> é uma interface funcional que recebe dois parâmetros de entrada do mesmo tipo, e retorna um valor do mesmo tipo das entradas.
 
