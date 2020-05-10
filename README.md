@@ -18,5 +18,5 @@ métodos. Por isso, são como "métodos anônimos", que podem ser passados via v
 
 ## Optional
 
-- --> O Optional ajuda a tratar objetos nulos.
+- --> O Optional ajuda a tratar objetos nulos, é melhor do que retornar null, pois seus métodos auxiliam em várias situações.
 
