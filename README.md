@@ -16,3 +16,7 @@
 - -->Expressões Lambda são parecidas com classes anônimas, porém só possuem a implementação dos
 métodos. Por isso, são como "métodos anônimos", que podem ser passados via variáveis.
 
+## Optional
+
+- --> O Optional ajuda a tratar objetos nulos.
+
